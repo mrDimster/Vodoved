@@ -1,3 +1,6 @@
+:root {
+  color-scheme: light; /* Это подскажет браузеру, что ты сам контролируешь цвета */
+}
 body{
     font-family: 'Arial', sans-serif;
     margin: 0;
